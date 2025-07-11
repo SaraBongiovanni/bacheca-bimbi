@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/bacheca-bimbi/static/css/main.e6c13ad2.css",
-    "main.js": "/bacheca-bimbi/static/js/main.a3351699.js",
-    "static/js/453.0613b945.chunk.js": "/bacheca-bimbi/static/js/453.0613b945.chunk.js",
-    "index.html": "/bacheca-bimbi/index.html",
-    "main.e6c13ad2.css.map": "/bacheca-bimbi/static/css/main.e6c13ad2.css.map",
-    "main.a3351699.js.map": "/bacheca-bimbi/static/js/main.a3351699.js.map",
-    "453.0613b945.chunk.js.map": "/bacheca-bimbi/static/js/453.0613b945.chunk.js.map"
+    "main.css": "/bacheca/static/css/main.e6c13ad2.css",
+    "main.js": "/bacheca/static/js/main.ae714ae2.js",
+    "static/js/453.0613b945.chunk.js": "/bacheca/static/js/453.0613b945.chunk.js",
+    "index.html": "/bacheca/index.html",
+    "main.e6c13ad2.css.map": "/bacheca/static/css/main.e6c13ad2.css.map",
+    "main.ae714ae2.js.map": "/bacheca/static/js/main.ae714ae2.js.map",
+    "453.0613b945.chunk.js.map": "/bacheca/static/js/453.0613b945.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.a3351699.js"
+    "static/js/main.ae714ae2.js"
   ]
 }
